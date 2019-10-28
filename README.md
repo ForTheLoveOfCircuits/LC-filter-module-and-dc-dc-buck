@@ -1,2 +1,5 @@
 # LC Filter module
-Custom electronic component footprints for Autodesk Eagle
+LC filter module to be used to reduce DC voltage fluctuatuion. 
+LC filter module with a capacitor and inductor. 
+PCB size: 39mm*13mm.
+
