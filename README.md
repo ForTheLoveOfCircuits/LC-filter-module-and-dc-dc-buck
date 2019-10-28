@@ -11,5 +11,5 @@ DC-DC buck convertor for DC voltage conversion.
 Can be used for LM2596 module, XLN6009 module
 Component size: 53mm*23mm
 
-<img src="https://cdn-media.itead.cc/media/catalog/product/cache/1/thumbnail/160x160/9df78eab33525d08d6e5fb8d27136e95/i/m/im130731002_3.jpg" width="400"
+<img src="https://cdn-media.itead.cc/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/im130731002_8.jpg" width="400"
          height="400">
